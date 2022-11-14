@@ -23,14 +23,21 @@ TypeScipt POC for Driven Bootcamp. Back-end of an app that allows music fans org
 <h3>How to run</h3>
 
   1. Clone this repository
-  2. Install all dependecies
+  2. Install all dependencies
   
        ```bash
            npm i
         ```
         
-  3. Configure the .env file using the .env.example file
-  4. Run app
+  3. Create a PostgreSQL database using the 'dump.sql' file
+  4. Configure the '.env' file using the '.env.example' file
+  5. Run the typescript compiler command
+  
+      ```bash
+        npx tsc
+      ```
+      
+  6. Run app
   
       ```bash
         npm start
