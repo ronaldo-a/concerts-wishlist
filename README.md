@@ -33,7 +33,7 @@ TypeScipt POC for Driven Bootcamp. Back-end of an app that allows music fans org
   4. Run app
   
       ```bash
-        npx nodemon src/index.ts
+        npm start
       ```
   
   # Documentation (routes)
