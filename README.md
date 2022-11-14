@@ -54,7 +54,7 @@ Yet, you cand delete a existent band or get the list of bands added by a user.
   POST: /concerts
   
     {
-      "username": "John",
+      "userName": "John",
       "bandName": "Coldplay",
       "alreadyWatched": false
     }
@@ -64,7 +64,7 @@ Yet, you cand delete a existent band or get the list of bands added by a user.
     
     
     {
-      "username": "John",
+      "userName": "John",
       "bandName": "Coldplay",
       "alreadyWatched": false,
       "concertDate": "03/05/2022",
