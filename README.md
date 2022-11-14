@@ -1,9 +1,5 @@
 # concerts-wishlist
-TypeScipt POC for Driven Bootcamp. Back-end of an app that allows you organize bands you want to see live or already did it. 
-In case you add a band you already saw live, you need to inform date and city where it happened and your personal rate to the concert. 
-Besides, you can update a band you initially added as unwatched to watched and add the respective info about the concert.
-Each band added should also contain the name of the user responsable for the adding.
-Yet, you cand delete a existent band or get the list of bands added by a user.
+TypeScipt POC for Driven Bootcamp. Back-end of an app that allows music fans organize bands they want to see live or already did it. 
 
 # about
 <h3>Features</h3>
